@@ -1,0 +1,16 @@
+:root {
+
+    --Color-primary: #FF577F;
+    --Color-primary-Focus: #FF427F;
+    --Color-primary-Negative: #59323F;
+
+    --Gray-4: #121214;
+    --Gray-3: #212529;
+    --Gray-2: #343B41;
+    --Gray-1: #868E96;
+    --Gray-0: #F8F9FA;
+
+    --Sucess: #3FE864;
+    --Negative: #E83F5B;
+
+}
